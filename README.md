@@ -11,6 +11,8 @@ Ce projet sert d'aggrégateur d'annonces Kijiji. On entre des urls de fichiers r
 ### Dépendences - Dependencies
 
 * Un navigateur web à jour
+* Un serveur web
+* PHP >= 7.4
 
 ### Installation - Installing
 
