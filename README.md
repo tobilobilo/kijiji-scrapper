@@ -16,30 +16,25 @@ Ce projet sert d'aggrégateur d'annonces Kijiji. On entre des urls de fichiers r
 
 ### Installation - Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Cloner le projet
+```
+git clone https://github.com/tobilobilo/kijiji-scrapper.git
+```
 
 ### Exécution du programme - Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Rouler la commande (ou équivalent pour rouler le projet sur un serveur web)
 ```
-code blocks for commands
+php -S localhost:8000
 ```
 
 ## Aide - Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+
 
 ## Auteurs - Authors
 
-Contributors names and contact info
-
 Jean-Pierre Rose
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## Historique des versions - Version History
 
