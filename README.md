@@ -10,8 +10,8 @@ Ce projet sert d'aggrégateur d'annonces Kijiji. On entre des urls de fichiers r
 
 ### Dépendences - Dependencies
 
-* Un navigateur web à jour
-* Un serveur web
+<!---* Un navigateur web à jour--->
+<!---* Un serveur web--->
 * PHP >= 7.4
 
 ### Installation - Installing
@@ -28,7 +28,7 @@ git clone https://github.com/tobilobilo/kijiji-scrapper.git
 php -S localhost:8000
 ```
 
-## Aide - Help
+<!---## Aide - Help--->
  
 
 
@@ -41,9 +41,9 @@ Jean-Pierre Rose
 * 0.1
     * Initial Release
 
-## License
+<!---## License--->
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+<!---This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details--->
 
-## Remerciements - Acknowledgments
+<!---## Remerciements - Acknowledgments--->
  
