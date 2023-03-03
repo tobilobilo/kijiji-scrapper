@@ -1,10 +1,10 @@
 # kijiji-scrapper
 
-Aggrégateur d'annonces Kijiji.
+Agrégateur d'annonces Kijiji.
 
 ## Description
 
-Ce projet sert d'aggrégateur d'annonces Kijiji. On entre des urls de fichiers rss de notre choix, ensuite aux 30 secondes ces fichiers seront fetchés de manière asynchrone pour afficher à l'écran les nouvelles annonces de la catégorie ou des mots-clés choisis. 
+Ce projet sert d'agrégateur d'annonces Kijiji. On entre des URLS de fichiers RSS de notre choix, ensuite aux 30 secondes ces fichiers seront récupérés de manière asynchrone pour afficher à l'écran les nouvelles annonces de la catégorie ou des mots-clés choisis. 
 
 ## Pour Commencer - Getting Started
 
